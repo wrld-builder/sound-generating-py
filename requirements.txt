@@ -1,0 +1,8 @@
+numpy
+pyaudio
+sounddevice
+wavio
+pydub
+wavefile
+scipy
+simpleaudio
